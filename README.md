@@ -95,4 +95,11 @@ Me chamo Matheus Enrico de Souza, tenho 18 anos e sou natural de São Paulo. Con
     style="padding-right: 10px;" 
     src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" 
 />
-
+<img 
+    align="left" 
+    alt="playwright" 
+    title="playwright"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://ms-playwright.gallerycdn.vsassets.io/extensions/ms-playwright/playwright/1.1.17/1763560409663/Microsoft.VisualStudio.Services.Icons.Default" 
+/>
