@@ -1,6 +1,6 @@
 **`Desenvolvedor / QA `**
 
-Me chamo Matheus Enrico de Souza, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na Fundação Bradesco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia e sempre estou em busca de aprender e conhecer coisas novas !
+Me chamo Matheus Enrico de Souza, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na Fundação Bradesco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP e atuando como QA na FireDev. Sou apaixonado por tecnologia e sempre estou em busca de aprender e conhecer coisas novas !
 
 <p align="left">
     <a href="https://www.linkedin.com/in/matheus-enrico-souza07/">
